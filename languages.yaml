@@ -1,3 +1,4 @@
+# TODO: fix translations
 en:
   PLUGIN_SITEMAP:
     SITEMAP: 'Sitemap'
@@ -35,12 +36,15 @@ en:
     URLNEWSSET: 'URLNewsSet'
     URLNEWSSET_HELP: 'The URLNewsSet XML Namespace'
     INCLUDE_NEWS_TAGS: 'Include News Tags'
+    INCLUDE_NEWS_TAGS_HELP: 'Include News Tags in the sitemap'
     NEWS_MAX_AGE_DAYS: 'News Max Age (Days)'
     NEWS_TAG_PATHS: 'News Enabled Paths'
     MULTILANG_ENABLED: 'Multi-Lang Features'
     MULTILANG_ENABLED_HELP: 'Enables support for multilanguage features'
     INCLUDE_CHANGEFREQ: 'Include Change Frequency'
+    INCLUDE_CHANGEFREQ_HELP: 'Include Change Frequency in the sitemap'
     INCLUDE_PRIORITY: 'Include Priority'
+    INCLUDE_PRIORITY_HELP: 'Include Priority in the sitemap'
     SHORT_DATE_FORMAT: 'Short Date Format'
     SHORT_DATE_FORMAT_HELP: 'Use Short or Long Date format'
     HTML_SUPPORT: 'HTML Support'
