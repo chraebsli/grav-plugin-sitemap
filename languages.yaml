@@ -1,4 +1,5 @@
 # TODO: fix translations
+# TODO: add feature for defaults
 en:
   PLUGIN_SITEMAP:
     SITEMAP: 'Sitemap'
@@ -110,7 +111,6 @@ uk:
     LOCATION: 'Розташування URL-адреси'
     LASTMOD: 'Остання модифікація, напр. 2017-04-06'
 
-# TODO: cleanup language
 de:
   PLUGIN_SITEMAP:
     SITEMAP: 'Seitenverzeichnis'
@@ -136,7 +136,7 @@ de:
     LOCATION: 'Pfad'
     LASTMOD: 'Zuletzt geändert z.B. 2017-04-06'
     IGNORE_EXTERNAL: 'Ignoriere externe URLs'
-    IGNORE_EXTERNAL_HELP: 'Standardmässig werden Seiten ausgeblendet, die eine `external` URL haben'
+    IGNORE_EXTERNAL_HELP: 'Standardmässig werden Seiten ausgeblendet, die eine "external" URL haben'
     IGNORE_PROTECTED: 'Ignoriere geschützte Seiten'
     IGNORE_PROTECTED_HELP: 'Ignoriert Seiten, die durch einen benutzerdefinierten "access" geschützt sind'
     IGNORE_REDIRECT: 'Ignoriere Weiterleitungsseiten'
